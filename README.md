@@ -2,6 +2,8 @@
 
 This repository contains a Gradio-based web application for crowd counting. Utilizing the `modelscope` library, the app performs crowd counting from images and displays the total count in an interactive interface.
 
+https://github.com/user-attachments/assets/c5abe38b-4b8f-462f-8fd6-9ac916e4020e
+
 ## Features
 
 - **Crowd Counting**: Upload an image, and the app will count the number of individuals using a pre-trained crowd counting model.
