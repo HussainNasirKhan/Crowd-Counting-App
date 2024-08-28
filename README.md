@@ -14,7 +14,6 @@ https://github.com/user-attachments/assets/c5abe38b-4b8f-462f-8fd6-9ac916e4020e
 
 - **Gradio**: For creating the user interface.
 - **Modelscope**: To perform crowd counting.
-- **PIL**: For image processing.
 
 ## Usage
 
